@@ -386,7 +386,7 @@ html{
     background-image: linear-gradient(rgb(57, 18, 18),rgb(27, 25, 25));
     position: absolute;
     left: 45%;
-    margin-top: 33%;
+    margin-top: 30%;
 }
 .c5 button:hover{
     background-color: #d40975;
